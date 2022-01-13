@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aymenben05
-- 👀 I’m interested in web developpement 
+- 👀 I’m interested in Front-end developpement 
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on building inteeractive websites 
 - 📫 How to reach me : my e-mail: anono9526@gmail.com ... or my fb : https://www.facebook.com/profile.php?id=100039450888311
